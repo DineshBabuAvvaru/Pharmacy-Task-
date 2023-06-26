@@ -1,0 +1,36 @@
+.heading{
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.side-heading{
+    color: blue;
+}
+.button{
+    margin: 20px;
+    font-size: 15px;
+    background-color: rgb(229, 6, 6) ;
+    color:white;
+}
+
+.name{
+    margin: 10px;
+    font-size: 20px;
+}
+
+.address{
+    margin: 10px;
+    font-size: 20px;
+}
+
+.contact{
+    margin: 10px;
+    font-size: 20px;
+}
+
+.email{
+    margin:10px;
+    font-size: 20px;
+}
